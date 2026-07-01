@@ -1,0 +1,10 @@
+<svg width="860" height="210" viewBox="0 0 860 210" fill="none" xmlns="http://www.w3.org/2000/svg" role="img" aria-labelledby="title desc">
+  <title id="title">Language Stats</title>
+  <desc id="desc">GitHub repository language statistics placeholder.</desc>
+  <rect width="860" height="210" rx="22" fill="#0d1117"/>
+  <rect x="1" y="1" width="858" height="208" rx="21" stroke="#30363d"/>
+  <circle cx="780" cy="54" r="78" fill="#161b22" opacity="0.65"/>
+  <text x="36" y="58" fill="#f0f6fc" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="28" font-weight="700">Language Stats</text>
+  <text x="36" y="102" fill="#8b949e" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="16">Waiting for the first GitHub Action run.</text>
+  <text x="36" y="142" fill="#8b949e" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="14">Add GH_STATS_TOKEN, run the workflow, and this card will be replaced automatically.</text>
+</svg>
