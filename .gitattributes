@@ -1,0 +1,4 @@
+# Keep the profile repository itself from being classified as Python because of the generator.
+scripts/** linguist-generated
+assets/** linguist-generated
+.github/** linguist-generated
