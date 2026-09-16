@@ -1,13 +1,13 @@
 {
-  "generated_at_utc": "2026-09-15T08:45:48.919551+00:00",
+  "generated_at_utc": "2026-09-16T08:40:09.942145+00:00",
   "count_mode": "dominant",
   "repositories_scanned": 22,
   "repositories_with_languages": 22,
   "private_repositories_scanned": 22,
-  "raw_total_bytes": 51847811,
+  "raw_total_bytes": 52452780,
   "languages": {
-    "Rust": 12.0,
-    "TypeScript": 3.0,
+    "Rust": 11.0,
+    "TypeScript": 4.0,
     "HTML": 2.0,
     "JavaScript": 2.0,
     "C++": 1.0,
